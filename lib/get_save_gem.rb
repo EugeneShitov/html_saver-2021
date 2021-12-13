@@ -13,7 +13,9 @@ class GetSaveGem
             <title>HW-3</title>
         </head>
         <body>
-            <p>#{body}<p>
+            <div class="info">
+                #{body}
+            </div>
         </body>
         </html>
       HTML
